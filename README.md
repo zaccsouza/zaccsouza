@@ -36,8 +36,8 @@
 ###
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thalia-Dev07}/count.svg" /></p> 
+<br><p align="center"><b>Contagem de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{zaccsouza}/count.svg" /></p> 
 <br>
 </div>
 
